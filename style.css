@@ -190,6 +190,7 @@ nav a{
 .seeall{
     display: inherit;
     align-items: flex-end;
+    display: inline;
    
 
 }
