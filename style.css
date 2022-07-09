@@ -201,24 +201,16 @@ nav a{
     border-top: #ED661F;
 
 }
-.customers{
+.Customers{
+    width: 80%;
     display: flex;
-    width: 80;
-    justify-content: space-between;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
-    
 }
-.john{
-    padding: auto;
-}
-.nyota img{
-    width: 2%;
-    padding: auto;
-   
+.jonh{
+    width: 24%;
+    padding: 10px;
+
 }
 .nyota{
     width: 100%;
-    padding: 70px;
+    
 }
