@@ -188,7 +188,7 @@ nav a{
     
 }
 .seeall{
-    display: flex;
+    display: inherit
     align-items: flex-end;
    
 
