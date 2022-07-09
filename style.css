@@ -201,3 +201,20 @@ nav a{
     border-top: #ED661F;
 
 }
+.customers{
+    display: flex;
+    width: 80;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+.nyota{
+   
+}
+.john{
+    size: 2%;
+    display: flex;
+}
