@@ -188,8 +188,9 @@ nav a{
     
 }
 .seeall{
-    position: relative;
-    left: 50%;
+    display: flex;
+    align-items: flex-end;
+   
 
 }
 .seeall span{
