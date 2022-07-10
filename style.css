@@ -194,23 +194,159 @@ nav a{
    
 
 }
-.seeall span{
-    right: -8%;
+.seeall {
+    width: 90%;
+    margin-left: 72%;
+}
+.seeall h4 {
+    font-weight:  500;
+    text-decoration: underline #ed661f;
+}
+.seeall span {
     position: relative;
-    top: -85px;
-    border-top: #ED661F;
+    top: -90px;
+    left: 60px;
+}
+.Customers {
+  width: 80%;  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
 
 }
-.Customers{
-    width: 80%;
-    display: flex;
-}
-.jonh{
+.john {
     width: 24%;
-    padding: 10px;
+    box-shadow: 0px 0px 5px lightgray;
 
 }
-.nyota{
+.nyota {
     width: 100%;
+    margin-bottom: 30px;
+}
+.nyota img {
+    width: 18%;
+}
+.circleimage {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    margin-bottom: auto;
+}
+.circleimage img {
+    width: 20%;
+}
+.circleimage p {
+    font-size: 12px;
+    font-weight: 700;
+}
+.readmore {
+    width: 90%;
+    margin-left: 72%;
+    margin-bottom: -50px;
+} 
+.readmore h4 {
+    font-weight:  500;
+    text-decoration: underline #ed661f ;
+}
+.readmore span {
+    position: relative;
+    top: -90px;
+    left: 90px;
+} 
+/* /.... start of footer.../ */
+
+.touch {
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 50px;
+}
+.touch h3 {
+    color: white;
+    margin-bottom: 20px;
+}
+.touch p {
+    color: white;
+    font-weight: 100;
+    font-size: 12px;
+}
+#email {
+background-color: white;
+border: none;
+padding: 8px 24px;
+}
+#subscribe {
+    background-color: #ed661f;
+    color: white;
+    border: none;
+    padding: 8px 24px;
+    margin-left: -4px;
+}
+.mainfooter {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    padding: 50px;
+}
+.section1 {
+    width: 35%;
+    color: white;
     
+}
+.section1 h1 {
+    color: white;
+    font-size: 30px;
+}
+.section1 p {
+    color: white;
+    font-size: 12px;
+}
+.icons {
+    width: 50%;
+    display: flex;
+
+}
+.icons img {
+    width: 15%;
+    border-radius: 30px;
+    padding: 10px;
+}
+.downloads {
+    width: 100%;
+    display: flex;
+    margin-top:10px ;
+}
+.downloads img {
+    width: 30%;
+    border-radius: 15px;
+    padding: 10px;
+}
+.section2 {
+    width: 20%;
+}
+.section2 p a {
+    text-decoration: none;
+    color: white;
+}
+.section3 {
+    width: 20%;
+} 
+.section3 p a {
+  text-decoration: none;  
+  color: white;
+}
+.section4 {
+    width: 20%;
+}
+.section4 p a {
+    text-decoration: none;
+    color: white;
 }
